@@ -39,6 +39,6 @@
 12. First commit:
     | Issue | Description |
     | ----------- | ----------- |
-    |  |  |
+    | Dynamic Analysis for iOS |  |
 
 13. Congratulations on your first commit! :tada: We would want to feature you on Community Spotlight:flashlight:. Share your story with the community and guide them to their first contributions.
