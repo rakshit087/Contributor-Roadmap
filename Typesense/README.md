@@ -21,7 +21,7 @@
     - [Cheat Sheet on FreeCodeCamp](https://www.freecodecamp.org/news/a-simple-git-guide-and-cheat-sheet-for-open-source-contributors/)
     - [Cheat Sheet on Github Education](https://education.github.com/git-cheat-sheet-education.pdf)
 6. [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/): A specification for adding human and machine readable meaning to commit messages
-7. Other prerequisites that you'd need before you get started:
+7. Good to have skills before you get started:
     - Docker
       - [Docker for absolute beginners on towardsdatascience](https://towardsdatascience.com/docker-for-absolute-beginners-what-is-docker-and-how-to-use-it-examples-3d3b11efd830)
       - [Docker Video Tutorial for Beginners](https://www.youtube.com/watch?v=3c-iBn73dDE)
