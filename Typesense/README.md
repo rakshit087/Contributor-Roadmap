@@ -10,6 +10,7 @@
     - Drupal
       - [Tutorialspoint](https://www.tutorialspoint.com/drupal/index.htm)
       - [Youtube playlist OSTraining](https://www.youtube.com/watch?v=-DYSucV1_9w&list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)
+      - [Automated Testing for Drupal](https://www.drupal.org/docs/7/automated-testing-for-drupal-7)
     - Shopify
       - [Getting started with Shopify Apps](https://shopify.dev/apps/getting-started/create)
       - [Best practices](https://shopify.dev/apps/best-practices)
