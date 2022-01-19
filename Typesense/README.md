@@ -47,7 +47,6 @@
     | [https://github.com/typesense/typesense-js/issues/95](https://github.com/typesense/typesense-js/issues/95) | Module for Deno |
     | [https://github.com/typesense/typesense-go](https://github.com/typesense/typesense-go) | Test GO Implementation |
     | Create Integration | Drupal |
-    | Create Integration | Wordpress |
     | Create Integration | Shopify |
 
 12. Congratulations on your first commit! :tada: We would want to feature you on Community Spotlight:flashlight:. Share your story with the community and guide them to their first contributions.
