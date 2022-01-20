@@ -27,7 +27,7 @@
     - [Installation](https://mobsf.github.io/docs/#/installation)
     - [Reference Blog](https://aviyel.com/post/643/a-brief-introduction-and-guide-to-mobile-security-framework-mobsf)
 9. Work handson on atleast one of the below:
-    - [Checking vulnerabilities on Termux using MobSF](https://aviyel.com/post/1542/checking-vulnerabilities-in-termux-android-application-using-mobsf)
+    - [Checking vulnerabilities in Termux using MobSF](https://aviyel.com/post/1542/checking-vulnerabilities-in-termux-android-application-using-mobsf)
     - [Fix SaaS application vulnerabilities using MobSF](https://aviyel.com/post/1489/build-a-saas-application-and-fix-vulnerabilities-using-mobsf)
     - [Pen-test Android and iOS packages using MobSF](https://www.whiteoaksecurity.com/blog/mobile-security-framework-part-1/#:~:text=If%20you%20want%20to%20test%20this%20out%20yourself%2C%20some%20example%20files%20can%20be%20found%20here%3A)
     - [Play with Docker - MobSF](https://labs.play-with-docker.com/?stack=https://raw.githubusercontent.com/MobSF/Mobile-Security-Framework-MobSF/master/scripts/stack/docker-compose.yml)
