@@ -8,7 +8,7 @@
 2. Essentials of Git (just in case you'd need it):
     - [Cheat Sheet on FreeCodeCamp](https://www.freecodecamp.org/news/a-simple-git-guide-and-cheat-sheet-for-open-source-contributors/)
     - [Cheat Sheet on Github Education](https://education.github.com/git-cheat-sheet-education.pdf)
-3. Programming Fundamentals to create integrations for MobSF:
+3. Programming Fundamentals:
     - Python
       - [Introduction to Python](https://lab.github.com/everydeveloper/introduction-to-python?overlay=register-box-overlay)
       - [Intermediate Python](https://lab.github.com/everydeveloper/intermediate-python)
