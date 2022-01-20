@@ -12,7 +12,7 @@
     - Python
       - [Introduction to Python](https://lab.github.com/everydeveloper/introduction-to-python?overlay=register-box-overlay)
       - [Intermediate Python](https://lab.github.com/everydeveloper/intermediate-python)
-4. Hear from the maintainer about the product and the journey [here](https://www.youtube.com/watch?v=F4mB0x_B1AE).
+4. Hear from the maintainer about the product and the journey [here](https://www.youtube.com/watch?v=5bOkjho-IEs&list=PLQEGxqpF0XxarEtoPD5h7YAbLPqONs9e0).
 5. Head [here](https://aviyel.com/projects/7/mobile-security-framework/questions) for all the FAQs around MobSF
 6. [Commit message guidelines](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
 7. Good to have skills before you get started:
@@ -33,12 +33,8 @@
     - [Play with Docker - MobSF](https://labs.play-with-docker.com/?stack=https://raw.githubusercontent.com/MobSF/Mobile-Security-Framework-MobSF/master/scripts/stack/docker-compose.yml)
 10. [Contribution Guidelines](https://github.com/MobSF/Mobile-Security-Framework-MobSF/blob/master/.github/CONTRIBUTING.md)
 11. Non-code Contributions:
-    - [Document Docker Support for Dynamic Analysis](https://github.com/MobSF/Mobile-Security-Framework-MobSF/projects/5#card-75773130)
-    - Translations to Spanish, French and Arabic
+    - Translations to Spanish, French and Hindi
     - [Blog for MobSF](https://github.com/aviyeldevrel/Aviyel-Blogs-Review/issues)
-12. First commit:
-    | Issue | Description |
-    | ----------- | ----------- |
-    | Dynamic Analysis for iOS |  |
+12. [First commit issues](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/264)
 
 13. Congratulations on your first commit! :tada: We would want to feature you on Community Spotlight:flashlight:. Share your story with the community and guide them to their first contributions.
