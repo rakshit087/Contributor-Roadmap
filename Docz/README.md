@@ -31,7 +31,7 @@
      - [Testing React with Jest](https://testing-library.com/docs/react-testing-library/example-intro/)
 5. Head [here](https://aviyel.com/projects/9/docz/questions) for all the FAQs around Docz
 6. [Commit Convention Guidelines](https://www.conventionalcommits.org/en/v1.0.0/): A specification for adding human and machine readable meaning to commit messages.
-7. Good to have skills before you get started:
+7. Good to haves before you get started:
     - MDX
       - [MDX Documentation](https://mdxjs.com/)
       - [MDX Playground](https://mdxjs.com/playground/)
