@@ -2,17 +2,17 @@
 
 ## First Contributor
 
-1. Community is the backbone of open-source. Start your journey by saying Hi to the community:
+1. Hear from the maintainer about the product and the journey [here](https://www.youtube.com/watch?v=5bOkjho-IEs&list=PLQEGxqpF0XxarEtoPD5h7YAbLPqONs9e0).
+2. Community is the backbone of open-source. Start your journey by saying Hi to the community:
     - [MobSF Slack Community](https://mobsf.slack.com/join/shared_invite/enQtNzM2NTAyNzA1MjgxLTdjMzkzNDc3ZjdiMjkwZTZhMmFhNDlkZmMwZDhjNDNmYTAzYWE5NGZlMDIzYzliNTdiMDQ2MTRlYjU1MjkyNGM#/shared-invite/email)
     - [Aviyel's World Discord Server](https://discord.gg/mB5w2D59za)
-2. Essentials of Git (just in case you'd need it):
+3. Essentials of Git (just in case you'd need it):
     - [Cheat Sheet on FreeCodeCamp](https://www.freecodecamp.org/news/a-simple-git-guide-and-cheat-sheet-for-open-source-contributors/)
     - [Cheat Sheet on Github Education](https://education.github.com/git-cheat-sheet-education.pdf)
-3. Programming Fundamentals:
+4. Programming Fundamentals:
     - Python
       - [Introduction to Python](https://lab.github.com/everydeveloper/introduction-to-python?overlay=register-box-overlay)
       - [Intermediate Python](https://lab.github.com/everydeveloper/intermediate-python)
-4. Hear from the maintainer about the product and the journey [here](https://www.youtube.com/watch?v=5bOkjho-IEs&list=PLQEGxqpF0XxarEtoPD5h7YAbLPqONs9e0).
 5. Head [here](https://aviyel.com/projects/7/mobile-security-framework/questions) for all the FAQs around MobSF
 6. [Commit message guidelines](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
 7. Good to have skills before you get started:
