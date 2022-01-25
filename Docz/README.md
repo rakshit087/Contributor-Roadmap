@@ -2,7 +2,7 @@
 
 ## First Contributor
 
-1. Hear from the maintainer about the product and the journey [here](https://www.youtube.com/watch?v=w7HuDtfV8Ew&list=PLQEGxqpF0XxZpDsPZFASuTT9wNZZkpqEE&index=8).
+1. Hear from the maintainers, Pedro & Renato, about the product and the journey [here](https://www.youtube.com/watch?v=w7HuDtfV8Ew&list=PLQEGxqpF0XxZpDsPZFASuTT9wNZZkpqEE&index=8).
 2. Community is the backbone of open-source. Start your journey by saying Hi to the community:
     - [Docz Slack Community](https://docz-workspace.slack.com/join/shared_invite/enQtNzc4ODc2ODA3NzUxLWI0ZmYwY2NhNjhkNDFjN2UzYzlmMDcwZjQyZGY4MWQ1NmQwZDVlZDE4MmE3N2I4MWRjZTAxZjY4ODk4NGMzZjg#/shared-invite/email)
     - [Aviyel's World Discord Server](https://discord.gg/mB5w2D59za)
