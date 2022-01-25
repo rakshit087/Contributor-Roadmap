@@ -26,6 +26,11 @@
        - [Codevolution on YouTube](https://www.youtube.com/c/Codevolution/playlists)
        - [Handson React](https://handsonreact.com/docs/)
        - [React-Router](https://reacttraining.com/react-router/)
+     - Gatsby
+       - [Official Documentation](https://www.gatsbyjs.com/docs/tutorial/)
+       - [Gatsby Tutorial by The Net Ninja on YouTube](https://www.youtube.com/watch?v=Qms4k6y7OgI&list=PL4cUxeGkcC9hw1g77I35ZivVLe8k2nvjB)
+       - [Gatsby Starters] (https://www.gatsbyjs.com/starters/)
+       - [Static Site Generator Tutorial by FreeCodeCamp](https://youtu.be/RaTpreA0v7Q)
    - Testing Library
      - [Jest](https://facebook.github.io/jest/) 
      - [Testing React with Jest](https://testing-library.com/docs/react-testing-library/example-intro/)
