@@ -9,6 +9,7 @@
 3. Essentials of Git (just in case you'd need it):
     - [Cheat Sheet on FreeCodeCamp](https://www.freecodecamp.org/news/a-simple-git-guide-and-cheat-sheet-for-open-source-contributors/)
     - [Cheat Sheet on Github Education](https://education.github.com/git-cheat-sheet-education.pdf)
+    - [Practice git by making a real contribution](https://github.com/firstcontributions/first-contributions)
 4. Programming Fundamentals:
    - Languages
      - JavaScript
