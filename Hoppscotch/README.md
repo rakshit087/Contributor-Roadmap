@@ -2,11 +2,11 @@
 
 ## First Contributor
 
-1. Head [here](https://aviyel.com/projects/5/hoppscotch/questions) for all the FAQs around Hoppscotch.
+1. Hear from the maintainer about the product and the journey [here](https://www.youtube.com/playlist?list=PLQEGxqpF0XxZpkPI4xVJibB0ThXk1i1fk).
 2. Community is the backbone of open-source. Start your journey by saying Hi to the community:
     - [Hoppscotch Discord Server](https://discord.com/invite/GAMWxmR)
     - [Aviyel's World Discord Server](https://discord.gg/mB5w2D59za)
-3. Hear from the maintainer about the product and the journey [here](https://www.youtube.com/playlist?list=PLQEGxqpF0XxZpkPI4xVJibB0ThXk1i1fk).
+3. Head [here](https://aviyel.com/projects/5/hoppscotch/questions) for all the FAQs around Hoppscotch.
 4. Essentials of Git (just in case you'd need it):
     - [Github Flow](https://docs.github.com/en/get-started/quickstart/github-flow)
     - [Cheat Sheet on FreeCodeCamp](https://www.freecodecamp.org/news/a-simple-git-guide-and-cheat-sheet-for-open-source-contributors/)
