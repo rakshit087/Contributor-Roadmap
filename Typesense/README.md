@@ -2,11 +2,12 @@
 
 ## First Contributor
 
-1. Community is the backbone of open-source. Start your journey by saying Hi to the community:
+1. Hear from the maintainers about the product and the journey [here](https://www.youtube.com/watch?v=F4mB0x_B1AE).
+2. Community is the backbone of open-source. Start your journey by saying Hi to the community:
     - [Typesense Slack Community](https://typesense-community.slack.com/join/shared_invite/zt-mx4nbsbn-AuOL89O7iBtvkz136egSJg#/shared-invite/email)
     - [Aviyel's World Discord Server](https://discord.gg/mB5w2D59za)
 
-2. Programming Fundamentals to create integrations for Typesense:
+3. Programming Fundamentals to create integrations for Typesense:
     - Drupal
       - [Tutorialspoint](https://www.tutorialspoint.com/drupal/index.htm)
       - [Youtube playlist OSTraining](https://www.youtube.com/watch?v=-DYSucV1_9w&list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)
@@ -16,7 +17,6 @@
       - [Best practices](https://shopify.dev/apps/best-practices)
       - [Authentication Flow](https://shopify.dev/apps/auth)
       - [How to Build a Shopify App with Node and React](https://www.youtube.com/watch?v=PIXN032XJJ8)
-3. Hear from the maintainers about the product and the journey [here](https://www.youtube.com/watch?v=F4mB0x_B1AE).
 4. Head [here](https://www.aviyel.com/projects/8/typesense/questions) for all the FAQs around Typesense
 5. Essentials of Git (just in case you'd need it):
     - [Cheat Sheet on FreeCodeCamp](https://www.freecodecamp.org/news/a-simple-git-guide-and-cheat-sheet-for-open-source-contributors/)
