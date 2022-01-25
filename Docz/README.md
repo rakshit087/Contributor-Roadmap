@@ -2,13 +2,14 @@
 
 ## First Contributor
 
-1. Community is the backbone of open-source. Start your journey by saying Hi to the community:
+1. Hear from the maintainer about the product and the journey [here](https://www.youtube.com/watch?v=w7HuDtfV8Ew&list=PLQEGxqpF0XxZpDsPZFASuTT9wNZZkpqEE&index=8).
+2. Community is the backbone of open-source. Start your journey by saying Hi to the community:
     - [Docz Slack Community](https://docz-workspace.slack.com/join/shared_invite/enQtNzc4ODc2ODA3NzUxLWI0ZmYwY2NhNjhkNDFjN2UzYzlmMDcwZjQyZGY4MWQ1NmQwZDVlZDE4MmE3N2I4MWRjZTAxZjY4ODk4NGMzZjg#/shared-invite/email)
     - [Aviyel's World Discord Server](https://discord.gg/mB5w2D59za)
-2. Essentials of Git (just in case you'd need it):
+3. Essentials of Git (just in case you'd need it):
     - [Cheat Sheet on FreeCodeCamp](https://www.freecodecamp.org/news/a-simple-git-guide-and-cheat-sheet-for-open-source-contributors/)
     - [Cheat Sheet on Github Education](https://education.github.com/git-cheat-sheet-education.pdf)
-3. Programming Fundamentals:
+4. Programming Fundamentals:
    - Languages
      - JavaScript
         -  [learn-js.org](https://www.learn-js.org/)
@@ -28,7 +29,6 @@
    - Testing Library
      - [Jest](https://facebook.github.io/jest/) 
      - [Testing React with Jest](https://testing-library.com/docs/react-testing-library/example-intro/)
-4. Hear from the maintainer about the product and the journey [here](https://www.youtube.com/watch?v=w7HuDtfV8Ew&list=PLQEGxqpF0XxZpDsPZFASuTT9wNZZkpqEE&index=8).
 5. Head [here](https://aviyel.com/projects/9/docz/questions) for all the FAQs around Docz
 6. [Commit Convention Guidelines](https://www.conventionalcommits.org/en/v1.0.0/): A specification for adding human and machine readable meaning to commit messages.
 7. Good to have skills before you get started:
