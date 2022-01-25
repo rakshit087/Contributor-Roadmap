@@ -25,6 +25,7 @@
     - Framework
       - Vuejs
         - [Vuejs playlist on YouTube by Codevolution](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f)
+        - [Vuejs 3 Tutorial on YouTube by The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1)
         - [Create a github file explorer using Vuejs](https://www.digitalocean.com/community/tutorials/create-a-github-file-explorer-using-vue-js)
         - [Vuejs communities](https://github.com/vuejs/awesome-vue#community)
 6. [Commit Convention Guidelines](https://www.conventionalcommits.org/en/v1.0.0/): A specification for adding human and machine readable meaning to commit messages.
