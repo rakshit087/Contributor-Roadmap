@@ -16,7 +16,7 @@ If you would need help at any stage of this roadmap, feel free to ping your quer
     - [Chatwoot Discord Server](https://discord.com/invite/cJXdrwS)
     - [Aviyel's World Discord Server](https://discord.gg/mB5w2D59za)
 
-3. Head [here](https://aviyel.com/projects/6/chatwoot/questions) for all the FAQs around Hoppscotch.
+3. Head [here](https://aviyel.com/projects/6/chatwoot/questions) for all the FAQs around Chatwoot.
 
 4. Essentials of Git (just in case you'd need it):
     - [Github Flow](https://docs.github.com/en/get-started/quickstart/github-flow)
