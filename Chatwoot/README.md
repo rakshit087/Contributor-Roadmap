@@ -30,12 +30,23 @@ If you would need help at any stage of this roadmap, feel free to ping your quer
         -  [learn-js.org](https://www.learn-js.org/)
         -  [MDN Web Docs for JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
         -  [Awesome JavaScript Learning](https://github.com/micromata/awesome-javascript-learning)
+     - Ruby
+        - [Basics of Ruby](https://www.tutorialspoint.com/ruby/index.htm)
+        - [Ruby Playlist by FreeCodeCamp on YouTube](https://www.youtube.com/watch?v=t_ispmWmdjY)
+        - [Learn Ruby with Codeacademy](https://www.codecademy.com/learn/learn-ruby)
       
     - Framework
       - Vuejs
         - [Vuejs playlist on YouTube by Codevolution](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f)
         - [Create a github file explorer using Vuejs](https://www.digitalocean.com/community/tutorials/create-a-github-file-explorer-using-vue-js)
         - [Vuejs communities](https://github.com/vuejs/awesome-vue#community)
+      - Ruby on Rails
+        - [Beginner Tutorials](https://www.tutorialspoint.com/ruby-on-rails/index.htm)
+        - [Learn Ruby on Rails - FreeCodeCamp](https://www.youtube.com/watch?v=fmyvWz5TUWg)
+        - [Learn Rails](https://www.codecademy.com/learn/learn-rails)
+    - Testing Library
+      - [Jest](https://facebook.github.io/jest/) 
+      - [Testing React with Jest](https://testing-library.com/docs/react-testing-library/example-intro/)
 
 6. [Commit Convention Guidelines](https://www.conventionalcommits.org/en/v1.0.0/): A specification for adding human and machine readable meaning to commit messages.
 
@@ -59,7 +70,7 @@ If you would need help at any stage of this roadmap, feel free to ping your quer
 
 10. Non-code Contributions:
     - [Translation issues idenitified on Crowdin](https://translate.chatwoot.com/)
-    - [Documentation issues on Github](https://github.com/chatwoot/docs/issues)
+    - [Documentation issues on Github](https://github.com/chatwoot/docs/issues?q=is%3Aopen+is%3Aissue+label%3Adocumentation)
     - [Blogs for Chatwoot](https://github.com/aviyeldevrel/Aviyel-Blogs-Review/issues)
 
 11. First commit issues
