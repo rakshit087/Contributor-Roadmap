@@ -2,6 +2,10 @@
 
 ## First Contributor
 
+We are so excited to know of your interest in contributing to Typesense. Exploring works the best when you work as a team. To connect with other people who are taking this road, we'd request you to fill this [form](https://aviyel.typeform.com/to/w2mzeA97)
+
+If you would need help at any stage in this roadmap, feel free to ping your queries to [Aviyel's World Discord Server](https://discord.gg/mB5w2D59za) or [setup a call](https://calendly.com/siddharthshiv/contributor-catchup-first-contribution-typesense) with us :)
+
 1. Hear from the maintainers about the product and the journey [here](https://www.youtube.com/watch?v=F4mB0x_B1AE).
 2. Community is the backbone of open-source. Start your journey by saying Hi to the community:
     - [Typesense Slack Community](https://typesense-community.slack.com/join/shared_invite/zt-mx4nbsbn-AuOL89O7iBtvkz136egSJg#/shared-invite/email)
