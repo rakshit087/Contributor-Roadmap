@@ -1,0 +1,7 @@
+### Choose a track:
+
+1) [First Contributor](first-contributor.md): If you are new to the project, this role is for you.
+
+2) [Leisure Contributor](leisure-contributor.md): If you have made a couple of contributions to this project in the past but still getting comfortable with the codebase and other integrations, this role is for you.
+
+3) [Expert Contributor](expert-contributor.md): If you have made multiple positions to this project and are comfortable with the codebase, this role is for you.
