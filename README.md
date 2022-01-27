@@ -2,7 +2,7 @@
 
 ## Projects
 
-- [Chatwoot](Chatwoot/trackd.md)
+- [Chatwoot](Chatwoot/tracks.md)
 - [Docz](Docz/tracks.md)
 - [Hoppscotch](Hoppscotch/tracks.md)
 - [MobSF](Mobsf/tracks.md)
