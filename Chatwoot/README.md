@@ -1,6 +1,6 @@
 # Contributor-Roadmap for [Chatwoot](https://www.chatwoot.com/) 
 
-## First Contributor (Work in Progress)
+## First Contributor
 
 We are so excited to know of your interest in contributing to Chatwoot!🎉 
 
