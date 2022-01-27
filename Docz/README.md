@@ -4,10 +4,6 @@
 
 We are so excited to know of your interest in contributing to Docz!🎉 
 
-Learning and exploring works best when you work as a team. We would want to invite you to be part of the **Explorer's Cohort**! Please fill this [form](https://aviyel.typeform.com/to/w2mzeA97) to connect with fellow explorers. :mag:
-
-If you would need help at any stage of this roadmap, feel free to ping your queries to [Aviyel's World Discord Server](https://discord.gg/mB5w2D59za) or [setup a call](https://calendly.com/siddharthshiv/contributor-catchup-explorers) with us :grinning:
-
 >  Keep the GitHub Organization [link](https://github.com/doczjs) handy
 
 1. Hear from the maintainers, Pedro & Renato, about the product and the journey [here](https://www.youtube.com/watch?v=B7IPwnGd7nQ&list=PLQEGxqpF0XxZpDsPZFASuTT9wNZZkpqEE&index=1).
