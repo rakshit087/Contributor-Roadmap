@@ -31,6 +31,8 @@ If you would need help at any stage of this roadmap, feel free to ping your quer
 
 7. Non-code Contributions:
     - [Blogs for Docz](https://github.com/aviyeldevrel/Aviyel-Blogs-Review/issues)
+    - Sign up for Alpha/beta testing
+    - [Evangelize Typesense]() by talking about it's features and how you've made use of it
 
 8. Code Contributions:
     - [Fix a medium level issue](https://github.com/doczjs/docz/issues?q=label%3A%22difficult%3A+medium%22)
