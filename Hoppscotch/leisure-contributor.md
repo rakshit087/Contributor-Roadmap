@@ -32,6 +32,7 @@ If you would need help at any stage of this roadmap, feel free to ping your quer
 6. Non-code Contributions:
     - [List of translation based issues on Github](https://github.com/hoppscotch/hoppscotch/issues?q=is%3Aopen+is%3Aissue+label%3Ai18n)
     - [Blogs for Hoppscotch](https://github.com/aviyeldevrel/Aviyel-Blogs-Review/issues)
+    - Sign up for Alpha/Beta testing
 
 7. Code contributions:
     - [Resolve a bug](https://github.com/hoppscotch/hoppscotch/issues?q=is%3Aopen+is%3Aissue++label%3Abug+)
