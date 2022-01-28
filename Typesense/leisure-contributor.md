@@ -14,7 +14,9 @@ If you would need help at any stage of this roadmap, feel free to ping your quer
     - [Typesense Slack Community](https://typesense-community.slack.com/join/shared_invite/zt-mx4nbsbn-AuOL89O7iBtvkz136egSJg#/shared-invite/email)
     - [Aviyel's World Discord Server](https://discord.gg/mB5w2D59za)
 
-3. [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/): A specification for adding human and machine readable meaning to commit messages.
+3. Head [here](https://www.aviyel.com/projects/8/typesense/questions) for all the FAQs around Typesense.
+
+4. [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/): A specification for adding human and machine readable meaning to commit messages.
 
 4. Documentation and Reference Blogs:
     - [Installation](https://typesense.org/docs/guide/install-typesense.html)
