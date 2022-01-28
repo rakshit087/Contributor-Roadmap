@@ -4,7 +4,7 @@ We are so excited to know of your interest in contributing to Typesense!🎉
 
 Contributions work the best when you work as a team. We would want to invite you to be part of the **Contributor's Cohort**! Please fill this [form](https://aviyel.typeform.com/to/w2mzeA97) to connect with fellow contributors. :mag:
 
-If you would need help at any stage of this roadmap, feel free to ping your queries to [Aviyel's World Discord Server](https://discord.gg/mB5w2D59za) or [setup a call](https://calendly.com/siddharthshiv/contributor-catchup-explorers) with us :grinning:
+If you would need help at any stage of this roadmap, feel free to ping your queries to [Aviyel's World Discord Server](https://discord.gg/mB5w2D59za) or [setup a call](https://calendly.com/siddharthshiv/contributor-catchup-aviyel) with us :grinning:
 
 >  Keep the GitHub Organization [link](https://github.com/typesense) handy
 
