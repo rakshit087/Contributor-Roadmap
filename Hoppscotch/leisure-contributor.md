@@ -27,12 +27,13 @@ If you would need help at any stage of this roadmap, feel free to ping your quer
 5. Contribution Guidelines
     - [Code Contribution Guidelines](https://docs.hoppscotch.io/develop)
     - [Translation Guidelines](https://github.com/hoppscotch/hoppscotch/blob/main/TRANSLATIONS.md)
-    - [Evangelize Hoppscotch]() by talking about it's features and how you've made use of it
 
 6. Non-code Contributions:
     - [List of translation based issues on Github](https://github.com/hoppscotch/hoppscotch/issues?q=is%3Aopen+is%3Aissue+label%3Ai18n)
+    - [Answer questions on StackOverflow](https://stackoverflow.com/questions/tagged/hoppscotch)
     - [Blogs for Hoppscotch](https://github.com/aviyeldevrel/Aviyel-Blogs-Review/issues)
     - Sign up for Alpha/Beta testing
+    - [Evangelize Hoppscotch]() by talking about it's features and how you've made use of it
 
 7. Code contributions:
     - [Resolve a bug](https://github.com/hoppscotch/hoppscotch/issues?q=is%3Aopen+is%3Aissue++label%3Abug+)
