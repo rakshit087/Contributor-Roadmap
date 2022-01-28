@@ -32,7 +32,7 @@ If you would need help at any stage of this roadmap, feel free to ping your quer
 8. Non-code Contributions:
     - [Translations to Spanish, French and Hindi](https://github.com/MobSF/docs)
     - [Blog for MobSF](https://github.com/aviyeldevrel/Aviyel-Blogs-Review/issues)
-    - [Evangelize Typesense]() by talking about it's features and how you've made use of it. 
+    - [Evangelize MobSF]() by talking about it's features and how you've made use of it. 
 
 9. Code contributions:
     - [Issues to fix](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues?q=label%3A%22PR+welcome%22)
