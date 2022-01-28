@@ -16,17 +16,17 @@ If you would need help at any stage of this roadmap, feel free to ping your quer
     - [MobSF Slack Community](https://mobsf.slack.com/join/shared_invite/enQtNzM2NTAyNzA1MjgxLTdjMzkzNDc3ZjdiMjkwZTZhMmFhNDlkZmMwZDhjNDNmYTAzYWE5NGZlMDIzYzliNTdiMDQ2MTRlYjU1MjkyNGM#/shared-invite/email)
     - [Aviyel's World Discord Server](https://discord.gg/mB5w2D59za)
 
-3. Essentials of Git (just in case you'd need it):
+3. Head [here](https://aviyel.com/projects/7/mobile-security-framework/questions) for all the FAQs around MobSF.
+
+4. Essentials of Git (just in case you'd need it):
     - [Cheat Sheet on FreeCodeCamp](https://www.freecodecamp.org/news/a-simple-git-guide-and-cheat-sheet-for-open-source-contributors/)
     - [Cheat Sheet on Github Education](https://education.github.com/git-cheat-sheet-education.pdf)
     - [Practice git by making a real contribution](https://github.com/firstcontributions/first-contributions)
 
-4. Programming Fundamentals:
+5. Programming Fundamentals:
     - Python
       - [Introduction to Python](https://lab.github.com/everydeveloper/introduction-to-python?overlay=register-box-overlay)
       - [Intermediate Python](https://lab.github.com/everydeveloper/intermediate-python)
-
-5. Head [here](https://aviyel.com/projects/7/mobile-security-framework/questions) for all the FAQs around MobSF
 
 6. [Commit message guidelines](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
 
