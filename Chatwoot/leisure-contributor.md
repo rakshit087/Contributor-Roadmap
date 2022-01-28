@@ -40,7 +40,7 @@ If you would need help at any stage of this roadmap, feel free to ping your quer
     - [Documentation issues on Github](https://github.com/chatwoot/docs/issues?q=is%3Aopen+is%3Aissue+label%3Adocumentation)
     - [Blogs for Chatwoot](https://github.com/aviyeldevrel/Aviyel-Blogs-Review/issues)
     - [Sign up for Alpha/beta testing of mobile app](https://github.com/chatwoot/chatwoot-mobile-app/blob/249ddb5696ab8254228619bf1e74d6ddc4abb728/README.md?blob=1#L54)
-    - [Evangelize Typesense]() by talking about it's features and how you've made use of it
+    - [Evangelize Chatwoot](https://aviyel.typeform.com/to/Om0YksAY) by talking about it's features and how you've made use of it
 
 10. Code Contributions:
     - [Issues open for PR](https://github.com/chatwoot/chatwoot/issues?q=is%3Aopen+is%3Aissue+label%3Aopen-for-prs)
