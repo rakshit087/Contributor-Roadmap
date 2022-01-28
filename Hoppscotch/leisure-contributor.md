@@ -1,6 +1,6 @@
 # Leisure Contributor
 
-Contributions work best when you work as a team. We would want to invite you to be part of the **Contributor's Cohort**! Please fill this [form](https://aviyel.typeform.com/to/w2mzeA97) to connect with fellow contributors. :mag:
+Contributions work best when you work as a team. We would want to invite you to be part of the **Contributor's Cohort**! Please fill this [form](https://aviyel.typeform.com/to/KeRCSzd3) to connect with fellow contributors. :mag:
 
 If you would need help at any stage of this roadmap, feel free to ping your queries to [Aviyel's World Discord Server](https://discord.gg/mB5w2D59za) or [setup a call](https://calendly.com/siddharthshiv/contributor-catchup-aviyel) with us :grinning:
 
@@ -38,4 +38,4 @@ If you would need help at any stage of this roadmap, feel free to ping your quer
     - [Test a resolution](https://github.com/hoppscotch/hoppscotch/issues?q=is%3Aopen+is%3Aissue+label%3A%22need+testing%22)
     - [Work on a feature request](https://github.com/hoppscotch/hoppscotch/issues?q=label%3Afeature)
 
-8. Thank you for being an active contributor! :tada: We'd love to [invite](https://aviyel.typeform.com/to/YnJdmq7k) you to share your story with the community. :microphone:
+8. Thank you for being an active contributor! :tada: We'd love to [invite](https://aviyel.typeform.com/to/nGNeu3hK) you to share your story with the community. :microphone:
