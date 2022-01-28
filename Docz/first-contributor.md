@@ -2,10 +2,11 @@
 
 ## First Contributor
 
+We are so excited to know of your interest in contributing to Docz!🎉 
+
 Learning and exploring works best when you work as a team. We would want to invite you to be part of the **Explorer's Cohort**! Please fill this [form](https://aviyel.typeform.com/to/w2mzeA97) to connect with fellow explorers. :mag:
 
 If you would need help at any stage of this roadmap, feel free to ping your queries to [Aviyel's World Discord Server](https://discord.gg/mB5w2D59za) or [setup a call](https://calendly.com/siddharthshiv/contributor-catchup-explorers) with us :grinning:
-We are so excited to know of your interest in contributing to Docz!🎉 
 
 >  Keep the GitHub Organization [link](https://github.com/doczjs) handy
 
@@ -15,12 +16,14 @@ We are so excited to know of your interest in contributing to Docz!🎉
     - [Docz Slack Community](https://docz-workspace.slack.com/join/shared_invite/enQtNzc4ODc2ODA3NzUxLWI0ZmYwY2NhNjhkNDFjN2UzYzlmMDcwZjQyZGY4MWQ1NmQwZDVlZDE4MmE3N2I4MWRjZTAxZjY4ODk4NGMzZjg#/shared-invite/email)
     - [Aviyel's World Discord Server](https://discord.gg/mB5w2D59za)
 
-3. Essentials of Git (just in case you'd need it):
+3. Head [here](https://aviyel.com/projects/9/docz/questions) for all the FAQs around Docz.
+
+4. Essentials of Git (just in case you'd need it):
     - [Cheat Sheet on FreeCodeCamp](https://www.freecodecamp.org/news/a-simple-git-guide-and-cheat-sheet-for-open-source-contributors/)
     - [Cheat Sheet on Github Education](https://education.github.com/git-cheat-sheet-education.pdf)
     - Not feeling confident yet? [Let's make a real quick contribution](https://github.com/firstcontributions/first-contributions)
 
-4. Programming Fundamentals:
+5. Programming Fundamentals:
    - Languages
      - JavaScript
         -  [learn-js.org](https://www.learn-js.org/)
@@ -45,8 +48,6 @@ We are so excited to know of your interest in contributing to Docz!🎉
    - Testing Library
      - [Jest](https://facebook.github.io/jest/) 
      - [Testing React with Jest](https://testing-library.com/docs/react-testing-library/example-intro/)
-
-5. Head [here](https://aviyel.com/projects/9/docz/questions) for all the FAQs around Docz.
 
 6. [Commit Message Guidelines](https://www.conventionalcommits.org/en/v1.0.0/): A specification for adding human and machine readable meaning to commit messages.
 
