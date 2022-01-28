@@ -16,7 +16,9 @@ If you would need help at any stage of this roadmap, feel free to ping your quer
     - [Typesense Slack Community](https://typesense-community.slack.com/join/shared_invite/zt-mx4nbsbn-AuOL89O7iBtvkz136egSJg#/shared-invite/email)
     - [Aviyel's World Discord Server](https://discord.gg/mB5w2D59za)
 
-3. Programming Fundamentals to create integrations for Typesense:
+3. Head [here](https://www.aviyel.com/projects/8/typesense/questions) for all the FAQs around Typesense.
+
+4. Programming Fundamentals to create integrations for Typesense:
     - Drupal
       - [Tutorialspoint](https://www.tutorialspoint.com/drupal/index.htm)
       - [Youtube playlist OSTraining](https://www.youtube.com/watch?v=-DYSucV1_9w&list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)
@@ -27,13 +29,11 @@ If you would need help at any stage of this roadmap, feel free to ping your quer
       - [Authentication Flow](https://shopify.dev/apps/auth)
       - [How to Build a Shopify App with Node and React](https://www.youtube.com/watch?v=PIXN032XJJ8)
 
-4. Head [here](https://www.aviyel.com/projects/8/typesense/questions) for all the FAQs around Typesense
-
 5. Essentials of Git (just in case you'd need it):
     - [Cheat Sheet on FreeCodeCamp](https://www.freecodecamp.org/news/a-simple-git-guide-and-cheat-sheet-for-open-source-contributors/)
     - [Cheat Sheet on Github Education](https://education.github.com/git-cheat-sheet-education.pdf)
 
-6. [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/): A specification for adding human and machine readable meaning to commit messages
+6. [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/): A specification for adding human and machine readable meaning to commit messages.
 
 7. Good to have skills before you get started:
     - Docker
