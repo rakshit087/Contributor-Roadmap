@@ -27,7 +27,7 @@ If you would need help at any stage of this roadmap, feel free to ping your quer
     - [Blog for Typesense](https://github.com/aviyeldevrel/Aviyel-Blogs-Review/issues)  
     - [Answer questions on stackoverflow](https://stackoverflow.com/questions/tagged/typesense)
     - Sign up for Alpha/beta testing
-    - [Evangelize Typesense]() by talking about it's features and how you've made use of it
+    - [Evangelize Typesense](https://aviyel.typeform.com/to/Om0YksAY) by talking about it's features and how you've made use of it
 
 7. Code contributions:
     - [Resolve the Bugs](https://github.com/typesense/typesense/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
