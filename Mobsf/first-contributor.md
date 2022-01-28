@@ -52,7 +52,7 @@ If you would need help at any stage of this roadmap, feel free to ping your quer
 10. [Contribution Guidelines](https://github.com/MobSF/Mobile-Security-Framework-MobSF/blob/master/.github/CONTRIBUTING.md)
 
 11. Non-code Contributions:
-    - Translations to Spanish, French and Hindi
+    - [Translations to Spanish, French and Hindi](https://github.com/MobSF/docs)
     - [Blog for MobSF](https://github.com/aviyeldevrel/Aviyel-Blogs-Review/issues)
 
 12. [First commit issues](https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/264)
