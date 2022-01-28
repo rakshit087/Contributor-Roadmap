@@ -1,4 +1,6 @@
-### Choose a track:
+## We are so excited to know of your interest in contributing to Typesense!🎉 
+
+### Let's start by choosing a track:
 
 1) [First Contributor](first-contributor.md): If you are new to the project, this role is for you.
 
