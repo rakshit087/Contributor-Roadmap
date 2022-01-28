@@ -31,7 +31,7 @@ If you would need help at any stage of this roadmap, feel free to ping your quer
     - [Answer questions on StackOverflow](https://stackoverflow.com/questions/tagged/hoppscotch)
     - [Blogs for Hoppscotch](https://github.com/aviyeldevrel/Aviyel-Blogs-Review/issues)
     - Sign up for Alpha/Beta testing
-    - [Evangelize Hoppscotch]() by talking about it's features and how you've made use of it
+    - [Evangelize Hoppscotch](https://aviyel.typeform.com/to/Om0YksAY) by talking about it's features and how you've made use of it
 
 7. Code contributions:
     - [Resolve a bug](https://github.com/hoppscotch/hoppscotch/issues?q=is%3Aopen+is%3Aissue++label%3Abug+)
