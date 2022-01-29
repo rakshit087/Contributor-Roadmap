@@ -1,5 +1,5 @@
 ## We are so excited to know of your interest in contributing to Docz!🎉 
-> Excited to start contributing to the project? Use this virtual resource pack and spread the excitement using #AviyelOS 🥁 
+> Excited to start contributing to the project? Use this virtual resource pack and spread the excitement using #OSwithAviyel 🥁 
 
 ### Let's start by choosing a track:
 
