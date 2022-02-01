@@ -18,12 +18,23 @@ If you would need help at any stage of this roadmap, feel free to ping your quer
 
 4. Essentials of Git (just in case you'd need it):
     - [Github Flow](https://docs.github.com/en/get-started/quickstart/github-flow)
+    - [Git and Github Essentials](https://aviyel.com/post/1202/git-and-github-essentials-you-should-know-right-now)
     - [Cheat Sheet on FreeCodeCamp](https://www.freecodecamp.org/news/a-simple-git-guide-and-cheat-sheet-for-open-source-contributors/)
     - [Cheat Sheet on Github Education](https://education.github.com/git-cheat-sheet-education.pdf)
-    - [Practice git by making a real contribution](https://github.com/firstcontributions/first-contributions)
+    - Not feeling confident yet? [Let's make a real quick contribution](https://github.com/firstcontributions/first-contributions)
 
 5. Programming Fundamentals:
-   - Languages
+   - Languages to create integrations for the project
+     - Shopify
+        - [Getting started with Shopify Apps](https://shopify.dev/apps/getting-started/create)
+        - [Best practices](https://shopify.dev/apps/best-practices)
+        - [Authentication Flow](https://shopify.dev/apps/auth)
+        - [How to Build a Shopify App with Node and React](https://www.youtube.com/watch?v=PIXN032XJJ8)
+     - Wordpress
+        - [What is Plugin?](https://www.wpbeginner.com/glossary/plugin/)
+        - [How to Create a Simple WordPress Plugin](https://www.youtube.com/watch?v=7REUdrDM_uE&t=205s)
+        - [The Beginner’s Guide to WordPress Plugin Development](https://wpbuffs.com/wordpress-plugin-development/#:~:text=In%20this%20post%2C%20we've,your%20plugin%20by%20adding%20functions.) 
+   - Languages on which the core project is built
      - JavaScript
         -  [learn-js.org](https://www.learn-js.org/)
         -  [MDN Web Docs for JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
