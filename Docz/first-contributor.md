@@ -17,6 +17,7 @@ If you would need help at any stage of this roadmap, feel free to ping your quer
 3. Head [here](https://aviyel.com/projects/9/docz/questions) for all the FAQs around Docz.
 
 4. Essentials of Git (just in case you'd need it):
+    - [Git and Github Essentials](https://aviyel.com/post/1202/git-and-github-essentials-you-should-know-right-now)
     - [Cheat Sheet on FreeCodeCamp](https://www.freecodecamp.org/news/a-simple-git-guide-and-cheat-sheet-for-open-source-contributors/)
     - [Cheat Sheet on Github Education](https://education.github.com/git-cheat-sheet-education.pdf)
     - Not feeling confident yet? [Let's make a real quick contribution](https://github.com/firstcontributions/first-contributions)
