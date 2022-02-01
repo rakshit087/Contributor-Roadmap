@@ -28,8 +28,10 @@ If you would need help at any stage of this roadmap, feel free to ping your quer
       - [How to Build a Shopify App with Node and React](https://www.youtube.com/watch?v=PIXN032XJJ8)
 
 5. Essentials of Git (just in case you'd need it):
+    - [Git and Github Essentials](https://aviyel.com/post/1202/git-and-github-essentials-you-should-know-right-now)
     - [Cheat Sheet on FreeCodeCamp](https://www.freecodecamp.org/news/a-simple-git-guide-and-cheat-sheet-for-open-source-contributors/)
     - [Cheat Sheet on Github Education](https://education.github.com/git-cheat-sheet-education.pdf)
+    - Not feeling confident yet? [Let's make a real quick contribution](https://github.com/firstcontributions/first-contributions)
 
 6. [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/): A specification for adding human and machine readable meaning to commit messages.
 
@@ -52,8 +54,7 @@ If you would need help at any stage of this roadmap, feel free to ping your quer
     - [Search for Documentation Sites](https://typesense.org/docs/guide/docsearch.html)
 
 10. Non-code Contributions:
-    - Creating a contribution guideline for integration repository
-    - Roadmap for integrations (if required)
+    - Creating a contribution guideline for integration repository in the [Github Organization](https://github.com/typesense)
     - [Blog for Typesense](https://github.com/aviyeldevrel/Aviyel-Blogs-Review/issues)
 
 11. First commit:
