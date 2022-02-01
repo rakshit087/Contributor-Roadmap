@@ -33,7 +33,7 @@ If you would need help at any stage of this roadmap, feel free to ping your quer
 
 6. [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/): A specification for adding human and machine readable meaning to commit messages.
 
-7. Good to have skills before you get started:
+7. Good to know before you get started:
     - Docker
       - [Docker for absolute beginners on towardsdatascience](https://towardsdatascience.com/docker-for-absolute-beginners-what-is-docker-and-how-to-use-it-examples-3d3b11efd830)
       - [Docker Video Tutorial for Beginners](https://www.youtube.com/watch?v=3c-iBn73dDE)
